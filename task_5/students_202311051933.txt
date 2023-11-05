@@ -1,13 +1,8 @@
 |id |lastname|firstname  |email                     |city     |age|
 |---|--------|-----------|--------------------------|---------|---|
 |0  |Karolina|Lykowska   |kara.lykowska@gmail.com   |Poznan   |32 |
-|0  |Karolina|Lykowska   |kara.lykowska@gmail.com   |Poznan   |32 |
 |1  |Kornelia|Małecka    |kornelia.malecka@gmail.com|Gniezno  |28 |
 |2  |Krystian|Zalewski   |krystian.boss@wp.pl       |Krotoszyn|39 |
 |3  |Konrad  |Sobieralski|kondziuuu@gmail.com       |Warszawa |43 |
 |4  |Kamil   |Makuszynski|kamil.makuszynski@o2.pl   |Berlin   |35 |
-|0  |Karolina|Lykowska   |kara.lykowska@gmail.com   |Poznan   |32 |
-|1  |Kornelia|Małecka    |kornelia.malecka@gmail.com|Gniezno  |28 |
-|2  |Krystian|Zalewski   |krystian.boss@wp.pl       |Krotoszyn|39 |
-|3  |Konrad  |Sobieralski|kondziuuu@gmail.com       |Warszawa |43 |
-|4  |Kamil   |Makuszynski|kamil.makuszynski@o2.pl   |Berlin   |35 |
+
